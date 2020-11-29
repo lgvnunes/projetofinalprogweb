@@ -1,5 +1,5 @@
 <?php
-phpinfo();
+echo "Pooooooooorrrraa!!!!!!!"
 
 $pdo = null;
 
