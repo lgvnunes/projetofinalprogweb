@@ -1,0 +1,12 @@
+{
+    "name": "lgvnunes/projetofinalprogweb",
+    "description": "Proejto Final do curso de Programador WEB do IFTO",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Luiz Guilherme V Nunes",
+            "email": "luizguilherme.cg@gmail.com"
+        }
+    ],
+    "require": {}
+}
