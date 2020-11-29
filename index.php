@@ -1,5 +1,6 @@
 <?php
-echo "Pooooooooorrrraa!!!!!!!"
+
+echo 'Pooooooooorrrraa!!!!!!!';
 
 $pdo = null;
 
@@ -11,3 +12,4 @@ try {
 }
 
 var_dump($pdo);
+
