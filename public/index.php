@@ -15,7 +15,7 @@ echo "<br>\\n";
 echo substr($texto, -5);     // herói
 echo "<br>\\n";
 
-phpinfo();
+/*phpinfo();*/
 
 $pdo = null;
 
