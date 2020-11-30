@@ -3,3 +3,4 @@ Template/
 *.rar
 projetofinalprogweblg.publishsettings
 composer.json
+*.~*
