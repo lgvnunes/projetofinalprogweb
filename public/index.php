@@ -1,6 +1,6 @@
 <?php
 
-echo 'Testando Virtual Directories no GearHost !!'
+echo "Testando Virtual Directories no GearHost !!";
 
 phpinfo();
 
