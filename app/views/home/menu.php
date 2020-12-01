@@ -9,20 +9,16 @@
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">Quem Somos</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Atuação</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Tecnologias</a></li>                  
-            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Entre em Contato</a></li>
-            <!--
-            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Habilidades</a></li>
-            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li>                      
-            -->
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contato">Fale conosco</a></li>
         </ul>
     </div>
 
-<!--
+
     <div class="social-icons-menu">
         <a class="social-icon-menu" href="www.linkedin.com"><i class="fab fa-linkedin-in"></i></a>
         <a class="social-icon-menu" href="www.github.com"><i class="fab fa-github"></i></a>
         <a class="social-icon-menu" href="www.twitter.com"><i class="fab fa-twitter"></i></a>
         <a class="social-icon-menu" href="www.facebook.com.br"><i class="fab fa-facebook-f"></i></a>
     </div>
--->
+
 </nav>

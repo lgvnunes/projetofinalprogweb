@@ -84,19 +84,19 @@
                             <div class="subheading mb-3">***</div>
                             <p> Nosso compromisso é, principal e primeiramente, fornecer soluções computacionais que coloquem nossos clientes
                                 na vanguarda da gestão ágil, resolutiva e que dê um melhor retorno. Nesse sentimento, nossas equipes estão sempre
-                                buscando o que há de mais moderno no desenvolvimento de softwares sem abandonar as tecnologias que se slidificaram
+                                buscando o que há de mais moderno no desenvolvimento de softwares sem abandonar as tecnologias que se solidificaram
                                 e que são as referâncias em nossa área.                                
                             </p>
                             <p>
                                 Aliado às tecnologias, fazemos uso de metodologias que nos dão a possibilidade de sermos ágeis e ao mesmo tempo, efetivos
-                                em resolver os desafios que nos sçao impostos, sempre pensando em termos, no final de cada ciclo, uma solução solida, ágil
-                                e inteligente paraa reslução das demandas de nossos clientes.
+                                em resolver os desafios que nos são impostos, sempre pensando em termos, no final de cada ciclo, uma solução solida, ágil
+                                e inteligente para a reslução das demandas de nossos clientes.
                             </p>
                             <p>
                                 Mas antes de qualquer tecnologia e/ou metodologia, e acima de qualquer valor que esses agreguem aos nossos serviços,
-                                prexamos pelas pessoas, sabemos que não existiria inovação sem cabeças pensantes, temos em nossas equipes, pessoas
+                                prezamos pelas pessoas; sabemos que não existiria inovação sem cabeças pensantes, temos em nossas equipes, pessoas
                                 comprometidas com os valores que prezamos e com os valores de nossos clientes. Sendo assim temos a certeza de que sempre
-                                desenvolveremos a melhos solução para o seu problema.
+                                solucionaremos o seu problema da melhor forma possível.
                             </p>
                         </div>
                     </div>
@@ -104,7 +104,6 @@
                 </div>
             </section>
             <hr class="m-0" />
-            
             
             <!-- Skills-->
             <!--
@@ -151,15 +150,15 @@
             -->
             
             <!--Interests-->
-            <!--
-            <section class="resume-section" id="interests">
+            
+            <section class="resume-section" id="contato">
                 <div class="resume-section-content">
-
                 <?php 
                     $this->view('home/form');
                 ?>                
                 </div>
             </section>
+            <!--
             <hr class="m-0" />
             -->
             <!-- Awards-->

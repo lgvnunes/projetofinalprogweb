@@ -1,48 +1,48 @@
 
-<form action="envia.php" method="post" id="contato">
+
+<form action="" method="post" id="contato"> 
+
 
 <form-ac class="form-horizontal">
 
-<fieldset>
+  <fieldset>
 
-<!-- Form Name -->
-<legend>Faça seu sistema conosco</legend>
+    <!-- Form Name -->
+    <legend>Faça seu sistema conosco</legend>
 
-<!-- Text input-->
-<div class="form-group">
-  <label class="col-md-4 control-label" for="txtEmail">Email</label>  
-  <div class="col-md-5">
-  <input id="txtEmail" name="txtEmail" type="text" placeholder="Insira o seu email aqui" class="form-control input-md" required="">
-    
-  </div>
-</div>
+    <!-- Text input-->
+    <div class="form-group">
+        <label class="col-md-4 control-label" for="txtEmail">Email</label>  
+        <div class="col-md-5">
+          <input id="txtEmail" name="txtEmail" type="email" placeholder="Insira o seu email aqui" class="form-control input-md" required="required" type="submit">
+        </div>
+    </div>
 
-<!-- Text input-->
-<div class="form-group">
-  <label class="col-md-4 control-label" for="nome">Nome</label>  
-  <div class="col-md-5">
-  <input id="nome" name="nome" type="text" placeholder="Insira o Nome aqui" class="form-control input-md" required="">
-    
-  </div>
-</div>
+    <!-- Text input-->
+    <div class="form-group">
+      <label class="col-md-4 control-label" for="nome">Nome</label>  
+      <div class="col-md-5">
+        <input id="nome" name="nome" type="text" placeholder="Insira o Nome aqui" class="form-control input-md" type=submit required> 
+      </div>
+    </div>
 
-<!-- Textarea -->
-<div class="form-group">
-  <label class="col-md-4 control-label" for="txtDescricao">Descreva aqui a sua demanda</label>
-  <div class="col-md-4">                     
-    <textarea class="form-control" id="txtDescricao" name="txtDescricao"></textarea>
-  </div>
-</div>
+    <!-- Textarea -->
+    <div class="form-group">
+      <label class="col-md-4 control-label" for="txtDescricao">Descreva aqui a sua demanda</label>
+      <div class="col-md-4">                     
+        <textarea class="form-control" id="txtDescricao" name="txtDescricao" placeholder="Digite a sua demanda nessse espaço" type=submit required></textarea>
+      </div>
+    </div>
 
-<!-- Button -->
-<div class="form-group">
-  <label class="col-md-4 control-label" for="btnContato"></label>
-  <div class="col-md-4">
-    <button id="btnContato" name="btnContato" class="btn btn-primary">Enviar</button>
-  </div>
-</div>
+    <!-- Button -->
+    <div class="form-group">
+      <label class="col-md-4 control-label" for="btnContato"></label>
+      <div class="col-md-4">
+        <button id="btnContato" name="btnContato" type=submit class="btn btn-primary">Enviar</button>
 
-</fieldset>
+      </div>
+    </div>
+  </fieldset>
 </form>
 
 
