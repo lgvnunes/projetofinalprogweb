@@ -1,5 +1,5 @@
 <?php 
-    $this->view('home/cabecario');
+    $this->view('home/cabecalho');
 ?>
         <!-- Navigation-->
         <?php
@@ -11,87 +11,103 @@
             <section class="resume-section" id="about">
                 <div class="resume-section-content">
                     <h1 class="mb-0">
-                        Clarence
-                        <span class="text-primary">Taylor</span>
+                    Sistemas Web
+                        <span class="text-primary"> Profissionais</span>
                     </h1>
                     <div class="subheading mb-5">
-                        3542 Berry Street · Cheyenne Wells, CO 80810 · (317) 585-8468 ·
-                        <a href="mailto:name@email.com">name@email.com</a>
+                        Rua do Sistema, 102 · Cidade, CO 80810 · (025) 5585-8468 ·
+                        <a href="mailto:name@email.com">swebpro@swebpro.com</a>
                     </div>
-                    <p class="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+                    <p class="lead mb-5">Nossa experiência aproveita estruturas ágeis para fornecer soluções robusta e inteligentes resolvendo, 
+                                        em alto nível, as suas demandas e de sua organização.Abordagens iterativas para a estratégia corporativa
+                                        estimulam o pensamento colaborativo para promover a proposta de valor geral.</p>
                     <div class="social-icons">
-                        <a class="social-icon" href="#"><i class="fab fa-linkedin-in"></i></a>
-                        <a class="social-icon" href="#"><i class="fab fa-github"></i></a>
-                        <a class="social-icon" href="#"><i class="fab fa-twitter"></i></a>
-                        <a class="social-icon" href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a class="social-icon" href="www.linkedin.com"><i class="fab fa-linkedin-in"></i></a>
+                        <a class="social-icon" href="www.github.com"><i class="fab fa-github"></i></a>
+                        <a class="social-icon" href="www.twitter.com"><i class="fab fa-twitter"></i></a>
+                        <a class="social-icon" href="www.facebook.com.br"><i class="fab fa-facebook-f"></i></a>
                     </div>
                 </div>
             </section>
+            
             <hr class="m-0" />
-            <!-- Experience-->
+            <!-- Atuação -->
             <section class="resume-section" id="experience">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">Experience</h2>
+
+                    <h2 class="mb-5">Áreas de Atuação</h2>
+
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Senior Web Developer</h3>
-                            <div class="subheading mb-3">Intelitec Solutions</div>
-                            <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
+                            <h3 class="mb-0">Sistemas Web para Gestaão Empresarial e Comercial</h3>
+                            <div class="subheading mb-3">***</div>
+                            <p> Anos de experiência no desenvolvimento de Soluções para gestão empresarial e automação comercial, nos dá o 
+                                <span class="text-primary"> Know Hall</span> para que você tenha a tranquilidade de saber que a melhor solução
+                                para em gestão de sua organização está aqui. 
+                            </p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">March 2013 - Present</span></div>
                     </div>
+
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Web Developer</h3>
-                            <div class="subheading mb-3">Intelitec Solutions</div>
-                            <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>
+                            <h3 class="mb-0">Aplicativos móveis </h3>
+                            <div class="subheading mb-3">***</div>
+                            <p> Os Smatphones e Tablets são os uma realidade a um bom tempo em nossas vidas, mas nos últinmos anos nós entendemos
+                                como usá-los não apenas para diversão mas também nos negócios. Nesse campo as aplicações para os 
+                                <span class="text-primary"> Dispositivos Móveis</span> são unúmeras e sua empresa não pode ficar de fora dessa 
+                                evolução. Deixe conosco a missão de levar sua empresa ao maravilhoso mundo mobile.
+                            </p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">December 2011 - March 2013</span></div>
                     </div>
+
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Junior Web Designer</h3>
-                            <div class="subheading mb-3">Shout! Media Productions</div>
-                            <p>Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.</p>
+                            <h3 class="mb-0">Sites para eventos</h3>
+                            <div class="subheading mb-3">***</div>
+                            <p> Você vai realizar aquele evento e precisa divulgar na internet, precisa de uma ferramenta para que seu público
+                                possa realizar a inscrição, realizar o pagamento e posteriormente receber certificados e afins? Então faremos isso    
+                                para você.
+                            </p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">July 2010 - December 2011</span></div>
                     </div>
-                    <div class="d-flex flex-column flex-md-row justify-content-between">
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0">Web Design Intern</h3>
-                            <div class="subheading mb-3">Shout! Media Productions</div>
-                            <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
-                        </div>
-                        <div class="flex-shrink-0"><span class="text-primary">September 2008 - June 2010</span></div>
-                    </div>
+
                 </div>
             </section>
             <hr class="m-0" />
             <!-- Education-->
             <section class="resume-section" id="education">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">Education</h2>
+                    <h2 class="mb-5">Pessoas Inovadoras, tecnologias efetivas</h2>
+
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">University of Colorado Boulder</h3>
-                            <div class="subheading mb-3">Bachelor of Science</div>
-                            <div>Computer Science - Web Development Track</div>
-                            <p>GPA: 3.23</p>
+                            <div class="subheading mb-3">***</div>
+                            <p> Nosso compromisso é, principal e primeiramente, fornecer soluções computacionais que coloquem nossos clientes
+                                na vanguarda da gestão ágil, resolutiva e que dê um melhor retorno. Nesse sentimento, nossas equipes estão sempre
+                                buscando o que há de mais moderno no desenvolvimento de softwares sem abandonar as tecnologias que se slidificaram
+                                e que são as referâncias em nossa área.                                
+                            </p>
+                            <p>
+                                Aliado às tecnologias, fazemos uso de metodologias que nos dão a possibilidade de sermos ágeis e ao mesmo tempo, efetivos
+                                em resolver os desafios que nos sçao impostos, sempre pensando em termos, no final de cada ciclo, uma solução solida, ágil
+                                e inteligente paraa reslução das demandas de nossos clientes.
+                            </p>
+                            <p>
+                                Mas antes de qualquer tecnologia e/ou metodologia, e acima de qualquer valor que esses agreguem aos nossos serviços,
+                                prexamos pelas pessoas, sabemos que não existiria inovação sem cabeças pensantes, temos em nossas equipes, pessoas
+                                comprometidas com os valores que prezamos e com os valores de nossos clientes. Sendo assim temos a certeza de que sempre
+                                desenvolveremos a melhos solução para o seu problema.
+                            </p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">August 2006 - May 2010</span></div>
                     </div>
-                    <div class="d-flex flex-column flex-md-row justify-content-between">
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0">James Buchanan High School</h3>
-                            <div class="subheading mb-3">Technology Magnet Program</div>
-                            <p>GPA: 3.56</p>
-                        </div>
-                        <div class="flex-shrink-0"><span class="text-primary">August 2002 - May 2006</span></div>
-                    </div>
+
                 </div>
             </section>
             <hr class="m-0" />
+            
+            
             <!-- Skills-->
+            <!--
             <section class="resume-section" id="skills">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Skills</h2>
@@ -132,16 +148,22 @@
                 </div>
             </section>
             <hr class="m-0" />
-            <!-- Interests-->
+            -->
+            
+            <!--Interests-->
+            <!--
             <section class="resume-section" id="interests">
                 <div class="resume-section-content">
+
                 <?php 
-                    $this->view('home/form');
-                ?>
+                //   $this->view('home/form');
+                ?>                
                 </div>
             </section>
             <hr class="m-0" />
+            -->
             <!-- Awards-->
+            <!--
             <section class="resume-section" id="awards">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Awards & Certifications</h2>
@@ -187,6 +209,7 @@
                     </ul>
                 </div>
             </section>
+            -->
         </div>
        
 <?php 

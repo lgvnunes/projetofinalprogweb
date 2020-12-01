@@ -10082,6 +10082,27 @@ p.lead {
   background-color: #bd5d38;
 }
 
+
+.social-icons-menu .social-icons-menu {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 1.5rem;
+  width: 1.5rem;
+  background-color: #495057;
+  color: #fff;
+  border-radius: 100%;
+  font-size: 1.0rem;
+  margin-right: 1.0rem;
+}
+.social-icons-menu .social-icons-menu:last-child {
+  margin-right: 0;
+}
+.social-icons-menu .social-icons-menu:hover {
+  background-color: #bd5d38;
+}
+
+
 .dev-icons {
   font-size: 3rem;
 }

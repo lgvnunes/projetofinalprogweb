@@ -1,5 +1,54 @@
 
+<form action="envia.php" method="post" id="contato">
 
+<form-ac class="form-horizontal">
+
+<fieldset>
+
+<!-- Form Name -->
+<legend>Faça seu sistema conosco</legend>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="txtEmail">Email</label>  
+  <div class="col-md-5">
+  <input id="txtEmail" name="txtEmail" type="text" placeholder="Insira o seu email aqui" class="form-control input-md" required="">
+    
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="nome">Nome</label>  
+  <div class="col-md-5">
+  <input id="nome" name="nome" type="text" placeholder="Insira o Nome aqui" class="form-control input-md" required="">
+    
+  </div>
+</div>
+
+<!-- Textarea -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="txtDescricao">Descreva aqui a sua demanda</label>
+  <div class="col-md-4">                     
+    <textarea class="form-control" id="txtDescricao" name="txtDescricao"></textarea>
+  </div>
+</div>
+
+<!-- Button -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="btnContato"></label>
+  <div class="col-md-4">
+    <button id="btnContato" name="btnContato" class="btn btn-primary">Enviar</button>
+  </div>
+</div>
+
+</fieldset>
+</form>
+
+
+
+
+<!--
 <form name="cadastro" action="http://localhost:8080/contact/adicionaAluno" method="POST">
   <div class="form-group row">
     <label class="col-4 col-form-label" for="nome">Nome</label> 
@@ -47,3 +96,4 @@
     </div>
   </div>
 </form>
+-->
