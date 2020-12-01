@@ -22,10 +22,10 @@
                                         em alto nível, as suas demandas e de sua organização.Abordagens iterativas para a estratégia corporativa
                                         estimulam o pensamento colaborativo para promover a proposta de valor geral.</p>
                     <div class="social-icons">
-                        <a class="social-icon" href="www.linkedin.com"><i class="fab fa-linkedin-in"></i></a>
-                        <a class="social-icon" href="www.github.com"><i class="fab fa-github"></i></a>
-                        <a class="social-icon" href="www.twitter.com"><i class="fab fa-twitter"></i></a>
-                        <a class="social-icon" href="www.facebook.com.br"><i class="fab fa-facebook-f"></i></a>
+                        <a class="social-icon" href="http://www.linkedin.com"><i class="fab fa-linkedin-in"></i></a>
+                        <a class="social-icon" href="http://www.github.com"><i class="fab fa-github"></i></a>
+                        <a class="social-icon" href="http://www.twitter.com"><i class="fab fa-twitter"></i></a>
+                        <a class="social-icon" href="http://www.facebook.com.br"><i class="fab fa-facebook-f"></i></a>
                     </div>
                 </div>
             </section>
@@ -156,7 +156,7 @@
                 <div class="resume-section-content">
 
                 <?php 
-                //   $this->view('home/form');
+                    $this->view('home/form');
                 ?>                
                 </div>
             </section>
