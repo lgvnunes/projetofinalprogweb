@@ -3,3 +3,8 @@ Template/
 *.rar
 projetofinalprogweblg.publishsettings
 composer.json
+*.~*
+contact/
+Dockerfile
+docker-compose.yml
+models/
