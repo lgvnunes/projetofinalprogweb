@@ -1,3 +1,4 @@
+
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
     <a class="navbar-brand js-scroll-trigger" href="#page-top">
         <span class="d-block d-lg-none">Desenvolvimento Inteligente</span>
@@ -13,12 +14,11 @@
         </ul>
     </div>
 
-
     <div class="social-icons-menu">
-        <a class="social-icon-menu" href="www.linkedin.com"><i class="fab fa-linkedin-in"></i></a>
-        <a class="social-icon-menu" href="www.github.com"><i class="fab fa-github"></i></a>
-        <a class="social-icon-menu" href="www.twitter.com"><i class="fab fa-twitter"></i></a>
-        <a class="social-icon-menu" href="www.facebook.com.br"><i class="fab fa-facebook-f"></i></a>
+        <a class="social-icon-menu" href="http://www.linkedin.com"><i class="fab fa-linkedin-in"></i></a><p>
+        <a class="social-icon-menu" href="http://www.github.com"><i class="fab fa-github"></i></a><p>
+        <a class="social-icon-menu" href="http://www.twitter.com"><i class="fab fa-twitter"></i></a><p>
+        <a class="social-icon-menu" href="http://www.facebook.com.br"><i class="fab fa-facebook-f"></i></a><p>
     </div>
 
 </nav>
